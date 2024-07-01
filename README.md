@@ -5,7 +5,7 @@ Code smells are those bad code structures that violate design principles and mak
 
 
 ## Data collection
-In each iteration of the method-level dataset, the MultiSmell is trained with 27 out of 28 projects and tested on the remaining project samples. The Minitwit project is not included in the testing process as it only contains one kind of code smell and the sample size is too tiny. The process is repeated 27 times
+In each iteration of the method-level dataset, the MultiSmell is trained with 27 out of 28 projects and tested on the remaining project samples. The Minitwit project is not included in the testing process as it only contains one kind of code smell and the sample size is too tiny. The process is repeated 27 times.
 | Index | Project | Description |
 |:------|:------|:------|
 | - | Minitwit | Based on Flask's MiniTwit example |
@@ -37,7 +37,7 @@ In each iteration of the method-level dataset, the MultiSmell is trained with 27
 | 26 | Xmlgraphics-batik | A Java-based toolkit for applications that handle images in the Scalable Vector Graphics format for various purposes |
 | 27 | Xmojo | JMX specification implementation |
 
-The source part of the dataset is available at the following URL [Data](https://zenodo.org/records/12604914)
+The source part of the dataset is available at the following URL [Data](https://zenodo.org/records/12604914).
 
 ## Results of MultiSmell
 ### RQ1
