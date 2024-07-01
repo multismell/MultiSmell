@@ -37,6 +37,8 @@ In each iteration of the method-level dataset, the MultiSmell is trained with 27
 | 26 | Xmlgraphics-batik | A Java-based toolkit for applications that handle images in the Scalable Vector Graphics format for various purposes |
 | 27 | Xmojo | JMX specification implementation |
 
+The source part of the dataset is available at the following URL [Data](https://zenodo.org/records/12604914)
+
 ## Results of MultiSmell
 ### RQ1
 The detailed assessment metrics values for each project and the confusion matrix.
